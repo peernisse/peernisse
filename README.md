@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @peernisse Pete EerNisse. Health data informaticist.
+- 👋 Hi, I’m @peernisse Peter EerNisse. Health data informaticist.
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, React JS
+- 🌱 I’m currently learning Shiny app development
 - 💞️ I’m looking to collaborate on R Shiny applications
 - 📫 How to reach me peernisse@gmail.com
 
